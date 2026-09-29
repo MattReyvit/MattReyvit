@@ -1,6 +1,6 @@
 # Reyvit Cisneros (MattReyvit)
 
-**Product Development Specialist — AI**
+## Product Development Specialist — AI
 
 I design and ship complete digital products — architecture, data, privacy and SEO — using AI as an accelerator, backed by a documented method.
 
