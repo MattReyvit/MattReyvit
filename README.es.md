@@ -1,6 +1,6 @@
 # Reyvit Cisneros (MattReyvit)
 
-**Especialista en Desarrollo de Producto con IA**
+## Especialista en Desarrollo de Producto con IA
 
 Diseño y entrego productos digitales completos — arquitectura, datos, privacidad y SEO — usando la IA como acelerador, con un método documentado.
 
