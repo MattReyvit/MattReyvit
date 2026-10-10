@@ -23,6 +23,6 @@ I design and ship complete digital products — architecture, data, privacy and 
 TypeScript · React 19 · TanStack Start · Tailwind CSS · PostgreSQL / Supabase · Mermaid · GitHub Pages
 
 ## Contact
-GitHub: [github.com/MattReyvit](https://github.com/Reyvit-Cisneros)
+GitHub: [github.com/Reyvit-Cisneros](https://github.com/Reyvit-Cisneros)
 
 Contact details live in my GitHub profile, so there is one place to keep them updated.
