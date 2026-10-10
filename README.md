@@ -1,4 +1,4 @@
-# Reyvit Cisneros (MattReyvit)
+# Reyvit Cisneros (Reyvit-Cisneros)
 
 ## Product Development Specialist — AI
 
@@ -15,14 +15,14 @@ I design and ship complete digital products — architecture, data, privacy and 
 ## Featured work
 | Project | What it shows |
 |---|---|
-| [cabbie-case-study](https://github.com/MattReyvit/cabbie-case-study) | End-to-end booking platform: architecture, sanitized database, design decisions |
-| [reyvit-framework](https://github.com/MattReyvit/reyvit-framework) | My delivery method: Plan → UX/SEO → Build → Compliance → Learn |
-| [comprobante-express-case-study](https://github.com/MattReyvit/comprobante-express-case-study) | Regulated e-invoicing product: data, compliance, UX flow |
+| [cabbie-case-study](https://github.com/Reyvit-Cisneros/cabbie-case-study) | End-to-end booking platform: architecture, sanitized database, design decisions |
+| [reyvit-framework](https://github.com/Reyvit-Cisneros/reyvit-framework) | My delivery method: Plan → UX/SEO → Build → Compliance → Learn |
+| [comprobante-express-case-study](https://github.com/Reyvit-Cisneros/comprobante-express-case-study) | Regulated e-invoicing product: data, compliance, UX flow |
 
 ## Stack
 TypeScript · React 19 · TanStack Start · Tailwind CSS · PostgreSQL / Supabase · Mermaid · GitHub Pages
 
 ## Contact
-GitHub: [github.com/MattReyvit](https://github.com/MattReyvit)
+GitHub: [github.com/MattReyvit](https://github.com/Reyvit-Cisneros)
 
 Contact details live in my GitHub profile, so there is one place to keep them updated.
